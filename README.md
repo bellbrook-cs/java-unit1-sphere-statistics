@@ -2,9 +2,24 @@
 
 ## Problem Statement
 
-## Input Description
+Write a program that takes the radius of a sphere (a `double`) as a literal value and outputs the sphere's diameter, circumference, surface area, and volume. Be sure to test your code. Are the results what you anticipated?
 
 ## Sample Input/Output
+
+### Input
+
+```java
+double radius = 6.5;
+```
+
+### Output
+
+```
+Sphere Radius: 13.0
+Circumference: 40.840704496667314
+Surface Area: 530.929158456675
+Volume: 1150.3465099894627
+```
 
 ## Submission
 
