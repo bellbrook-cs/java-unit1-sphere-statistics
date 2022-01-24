@@ -15,7 +15,7 @@ double radius = 6.5;
 ### Output
 
 ```
-Sphere Radius: 13.0
+Sphere Diameter: 13.0
 Sphere Circumference: 40.840704496667314
 Sphere Surface Area: 530.929158456675
 Sphere Volume: 1150.3465099894627
